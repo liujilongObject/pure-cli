@@ -1,5 +1,6 @@
 .DS_Store
 .git
 npm-debug.log
+lerna-debug.log
 .npmrc
 node_modules/
