@@ -1,0 +1,29 @@
+{
+  "name": "@pure/cli-utils",
+  "version": "0.0.0",
+  "description": "pure-cli utils",
+  "keywords": [
+    "utis",
+    "cli"
+  ],
+  "author": "liujilong <liujilong@didiglobal.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cli-utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.intra.xiaojukeji.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
