@@ -25,7 +25,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@pure/cli-utils": "^0.2.1-alpha.0",
+    "@pure/cli-utils": "^0.2.1-alpha.0"
+  },
+  "devDependencies": {
     "chalk": "^4.1.0"
   }
 }
