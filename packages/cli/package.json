@@ -1,6 +1,6 @@
 {
   "name": "@pure/cli",
-  "version": "0.0.0",
+  "version": "0.1.0-alpha.0",
   "description": "pure cli",
   "keywords": [
     "pure",
@@ -25,7 +25,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@pure/cli-utils": "^0.0.0",
+    "@pure/cli-utils": "^0.1.0-alpha.0",
     "chalk": "^4.1.0"
   }
 }
