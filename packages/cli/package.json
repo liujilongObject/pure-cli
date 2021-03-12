@@ -1,6 +1,6 @@
 {
   "name": "@pure/cli",
-  "version": "0.1.0-alpha.0",
+  "version": "0.2.0-alpha.0",
   "description": "pure cli",
   "author": "liujilong <liu4426350@qq.com>",
   "homepage": "https://github.com/liujilongObject/pure-cli/blob/master/README.md",
@@ -25,7 +25,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@pure/cli-utils": "^0.1.0-alpha.0",
+    "@pure/cli-utils": "^0.2.0-alpha.0",
     "chalk": "^4.1.0"
   }
 }
