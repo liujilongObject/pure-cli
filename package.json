@@ -1,10 +1,15 @@
 {
   "name": "root",
   "private": true,
+  "author": "liujilong <liu4426350@qq.com>",
+  "homepage": "https://github.com/liujilongObject/pure-cli/blob/master/README.md",
+  "license": "ISC",
   "devDependencies": {
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "lerna:publish": "lerna publish"
+    "lerna:publish": "lerna publish",
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean"
   }
 }

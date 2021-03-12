@@ -2,13 +2,13 @@
   "name": "@pure/cli-utils",
   "version": "0.1.0-alpha.0",
   "description": "pure-cli utils",
+  "author": "liujilong <liu4426350@qq.com>",
+  "homepage": "https://github.com/liujilongObject/pure-cli/blob/master/README.md",
+  "license": "ISC",
   "keywords": [
     "utis",
     "cli"
   ],
-  "author": "liujilong <liujilong@didiglobal.com>",
-  "homepage": "",
-  "license": "ISC",
   "main": "lib/cli-utils.js",
   "directories": {
     "lib": "lib",

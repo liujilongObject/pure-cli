@@ -2,13 +2,13 @@
   "name": "@pure/cli",
   "version": "0.1.0-alpha.0",
   "description": "pure cli",
+  "author": "liujilong <liu4426350@qq.com>",
+  "homepage": "https://github.com/liujilongObject/pure-cli/blob/master/README.md",
+  "license": "ISC",
   "keywords": [
     "pure",
     "cli"
   ],
-  "author": "liujilong <liu4426350@qq.com>",
-  "homepage": "",
-  "license": "ISC",
   "main": "lib/cli.js",
   "directories": {
     "lib": "lib",
